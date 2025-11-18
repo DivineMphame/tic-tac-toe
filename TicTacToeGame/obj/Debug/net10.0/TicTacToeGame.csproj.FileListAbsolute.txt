@@ -12,3 +12,4 @@ C:\Users\User\Desktop\tic-tac-toe\tic-tac-toe\TicTacToeGame\obj\Debug\net10.0\re
 C:\Users\User\Desktop\tic-tac-toe\tic-tac-toe\TicTacToeGame\obj\Debug\net10.0\TicTacToeGame.pdb
 C:\Users\User\Desktop\tic-tac-toe\tic-tac-toe\TicTacToeGame\obj\Debug\net10.0\TicTacToeGame.genruntimeconfig.cache
 C:\Users\User\Desktop\tic-tac-toe\tic-tac-toe\TicTacToeGame\obj\Debug\net10.0\ref\TicTacToeGame.dll
+C:\Users\User\Desktop\tic-tac-toe\tic-tac-toe\TicTacToeGame\obj\Debug\net10.0\TicTacToeGame.sourcelink.json
