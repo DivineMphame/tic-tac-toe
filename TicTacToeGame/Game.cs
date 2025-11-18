@@ -36,6 +36,12 @@ namespace TicTacToeGame
                     board.PlaceMark(move, currentPlayer);
                     SaveSystem.Save(board.Cells);
 
+                    // If the computer just moved, pause briefly so the message is visible
+                    if (active is ComputerPlayer)
+                    {
+                        System.Threading.Thread.Sleep(800);
+                    }
+
                     if (board.CheckWin(currentPlayer))
                     {
                         Console.Clear();
